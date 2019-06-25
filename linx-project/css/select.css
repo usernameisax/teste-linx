@@ -1,0 +1,33 @@
+.select-section h2 {
+  overflow: hidden;
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
+
+.select-section h2:before,
+.select-section h2:after {
+  background-color: #034154;
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 50%;
+}
+
+.select-section h2:before {
+  right: 0.5em;
+  margin-left: -55%;
+}
+
+.select-section h2:after {
+  left: 0.5em;
+  margin-right: -55%;
+}
+
+.select-section .butn {
+  margin-top: 52px;
+  margin-bottom: 152px;
+  margin-left: 40%;
+}

@@ -1,0 +1,38 @@
+.new-share {
+    h2 {
+        overflow: hidden;
+        text-align: center;
+        margin-bottom: 44px;
+
+        &:before {
+            background-color: $background_color_3;
+            content: "";
+            display: inline-block;
+            height: 1px;
+            position: relative;
+            vertical-align: middle;
+            width: 50%;
+            right: 0.5em;
+            margin-left: -55%;
+        }
+
+        &:after {
+            background-color: $background_color_3;
+            content: "";
+            display: inline-block;
+            height: 1px;
+            position: relative;
+            vertical-align: middle;
+            width: 50%;
+            left: 0.5em;
+            margin-right: -55%;
+        }
+    }
+
+    .butn {
+        margin-top: 50px;
+        margin-bottom: 75px;
+        text-align: center;
+        margin: 0 auto;
+    }
+}

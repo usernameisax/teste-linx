@@ -1,0 +1,24 @@
+.help-section h1 {
+  font-size: 20px !important;
+  text-align: left;
+}
+
+.help-section p {
+  text-align: left;
+  font-size: 12px;
+  margin-top: 30px;
+}
+
+.help-section label {
+  font-size: 12px !important;
+}
+
+.form-control {
+  padding: .3rem .75rem !important;
+}
+
+.form-check-input {
+  position: absolute;
+  margin-top: .30rem !important;
+  margin-left: 0rem !important;
+}
