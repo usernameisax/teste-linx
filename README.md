@@ -4,11 +4,12 @@
 <h2>Linguagens e frameworks</h2>
 
 Para o desenvolvimento do projeto foram usados as seguintes linguagens e frameworks:  
--HTML
--JavaScript
--Scss
--Css
--jQuery
+
+1. HTML<br>
+2. JavaScript<br>
+3. Scss<br>
+4. Css<br>
+5. jQuery<br>
 
 Não é necessário instalar nenhum pacote previamente.
 
