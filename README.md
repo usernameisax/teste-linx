@@ -1,4 +1,4 @@
-# teste-linxs
+# teste-linx
 <h1>Teste<h1>
     
 <h2>Linguagens e frameworks</h2>
